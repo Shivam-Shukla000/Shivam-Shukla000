@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **reactjs, js, css, nodejs**
 
-- 📫 How to reach me **on; email : shuklashivamdeos@gmail.com, discord id: katari_baba**
+- 📫 How to reach me **; email : shuklashivamdeos@gmail.com, discord id: katari_baba**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
